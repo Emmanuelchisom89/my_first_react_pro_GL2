@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my_first_react_pro_GL2/static/css/main.ffe08945.css",
+    "main.js": "/my_first_react_pro_GL2/static/js/main.23ce0fee.js",
+    "index.html": "/my_first_react_pro_GL2/index.html",
+    "main.ffe08945.css.map": "/my_first_react_pro_GL2/static/css/main.ffe08945.css.map",
+    "main.23ce0fee.js.map": "/my_first_react_pro_GL2/static/js/main.23ce0fee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe08945.css",
+    "static/js/main.23ce0fee.js"
+  ]
+}
